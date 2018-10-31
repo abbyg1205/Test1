@@ -1,3 +1,4 @@
+/* This program is a test program to check for Prime numbers */
 public class Program {
 
 	public static void main(String[] args) {
